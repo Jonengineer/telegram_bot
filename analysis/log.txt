@@ -1,0 +1,11 @@
+ ID: 746636625  First_Name: GrepRobot Last_Name: None Username: grep_robot Phone: None Access_Hash: 4652544315494681504 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ ID: 5559211372  First_Name: Admin Last_Name: Viktoria Username: Viktori_dio Phone: None Access_Hash: 5629862204862556003 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ ID: 425504943  First_Name: Katerina Last_Name: None Username: None Phone: None Access_Hash: -8329465991681936774 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ ID: 5759108774  First_Name: Рекламная пауза Last_Name: None Username: Reklana_bot Phone: None Access_Hash: 629370860534448760 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ ID: 1366680800  First_Name: Алёна Last_Name: Алёна Username: smmalenaru Phone: None Access_Hash: 8589984937181163796 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ ID: 400753764  First_Name: DaySandBox Last_Name: None Username: daysandbox_bot Phone: None Access_Hash: -930112831531297607 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ ID: 331362154  First_Name: Liza Last_Name: Galina Username: None Phone: None Access_Hash: 3405100827403786601 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ ID: 454600392  First_Name: None Last_Name: None Username: None Phone: None Access_Hash: 492452525917160900 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ ID: 599853199  First_Name: Progreal Last_Name: None Username: Dubaitytcom Phone: None Access_Hash: 1924776290367420440 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ ID: 110226179  First_Name: Paukan Last_Name: Ololoev ♿ Username: PaukanOloloev Phone: None Access_Hash: -2780240429227320515 Channel: НАШИ В ОАЭ | ДУБАЙ ЧАТ 🇦🇪 
+ 
